@@ -45,13 +45,7 @@ Git • Docker • Streamlit • AWS • Jupyter • Linux
 - Built face recognition system with 95% accuracy  
 - Automated analytics dashboards for 100+ users  
 ---
-**# 🔗 Connect With Me
 
-📧 Email: syellu@students.kennesaw.edu  
-💼 LinkedIn: https://www.linkedin.com/in/siri-reddy-yellu/
-🌐 Portfolio: https://v0-personalportfoliowebsite.vercel.app/   
-🐙 GitHub: https://github.com/SiriYellu**
----
 
 ⭐ I enjoy building AI, Machine Learning, and Data Science systems that move from research → real-world impact.
 
