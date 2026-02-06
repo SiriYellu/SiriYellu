@@ -114,30 +114,10 @@ domains:
   - Face recognition & real-time inference pipelines
 ```
 
----
-
-## ▸ git_log --stats
-
-
-
----
-
-## 🐍 contribution_snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/SiriYellu/SiriYellu/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
----
-
-## > github_stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact" />
-
-</div>
 
 ---
 
